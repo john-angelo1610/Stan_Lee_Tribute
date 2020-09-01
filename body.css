@@ -1,0 +1,44 @@
+#main{
+  border: solid 7px #ED1A23;
+  border-radius: 20px;
+  margin: 0 80px 20px;
+  padding: 20px;
+}
+#title{
+  text-align: center;
+  font-size: 55px;
+  padding-bottom: 20px; 
+}
+#image{
+  display: block;
+  width: 70%;
+  height: auto;
+  margin: auto;
+  margin-bottom: 10px;
+}
+#img-caption{
+  text-align: center;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+#img-div{
+  text-align: justify;
+}
+#tribute-info{
+  font-size: 20px;
+}
+
+#main p:last-child{
+  text-align: center;
+  padding-top: 15px;
+}
+
+#tribute-link{
+  text-decoration: none;
+  color: #ED1A23;
+}
+
+#tribute-link:hover{
+  text-decoration: none;
+  color: #c10000;
+}
